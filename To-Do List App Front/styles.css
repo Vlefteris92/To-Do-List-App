@@ -1,0 +1,37 @@
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: blue;
+  }
+  
+  #todo-container {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  #todo-input {
+    width: 200px;
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  #add-btn {
+    padding: 5px 10px;
+    font-size: 16px;
+  }
+  
+  #todo-list {
+    margin-top: 10px;
+    list-style-type: none;
+  }
+  
+  #todo-list li {
+    margin-bottom: 5px;
+  }
+  
